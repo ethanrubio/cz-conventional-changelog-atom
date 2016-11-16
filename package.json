@@ -11,10 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "commitizen": "^2.8.6",
-    "conventional-commit-types-atom": "^0.0.1",
     "standard-version": "^3.0.0"
   },
   "dependencies": {
+    "conventional-commit-types-atom": "^0.0.1",
     "lodash.map": "^4.6.0",
     "longest": "^1.0.1",
     "pad-right": "^0.2.2",
