@@ -1,6 +1,6 @@
 {
   "name": "cz-conventional-changelog-atom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Commitizen adapter for following the conventional-changelog atom preset",
   "main": "src/index.js",
   "repository": {
