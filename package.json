@@ -10,7 +10,7 @@
   "author": "ethanrubio <ethanrubio@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "commitizen": "^2.8.6",
+    "commitizen": "^3.1.2",
     "standard-version": "^3.0.0"
   },
   "dependencies": {
